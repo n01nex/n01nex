@@ -19,6 +19,7 @@ Based in Zurich, Switzerland 🇨🇭
 - **Digital Sovereignty**
 
 ---
+## 🧑🏻‍💻 As a DEV
 **In essence**: I bridge governance and technical reality — orchestrating risk, compliance, and cloud security by day, and tinkering with Kubernetes, Go, and local AI by night. 
 Homelab enthusiast with Proxmox, self-hosting advocate, AI Agentic optimizer.
 
