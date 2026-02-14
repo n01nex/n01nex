@@ -14,9 +14,8 @@ Based in Zurich, Switzerland 🇨🇭
 
 - **CISM Certified** (ISACA)
 - **Regulatory Compliance:** FINMA, BaFin, ESMA, AI Act, GDPR, DORA
-- **TPRM** (Third-Party Risk Management)
-- **Cloud Governance & Security Requirements**
-- **Operational Resilience & Data Protection**
+- **TPRM & Cloud Governance:** End-to-end, Due diligence, Contract and Negotiation, security clauses
+- **Operational Resilience & Data Protection** 
 - **Digital Sovereignty**
 
 ---
@@ -26,12 +25,6 @@ Homelab enthusiast with Proxmox, self-hosting advocate, AI Agentic optimizer.
 **Stack**: Go, Python, K8s, AWS, PostgreSQL, Linux, Ollama
 
 **Focus**: Digital sovereignty, local-first tooling, security
-
----
-
-## 🌐 Connect
-
-- **Mail:** nex@owlone.dev
 
 ---
 
