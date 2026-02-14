@@ -68,6 +68,7 @@ Based in Zurich, Switzerland 🇨🇭
 
 - **Ollama** - Local LLM deployment
 - **OpenWebUI** - Web interface for LLMs
+- **Agents** - OpenClaw and Custom agents orchestration.
 - **TensorFlow** - ML framework
 - **Hugging Face** - Model hub & transformers
 - **RAG** - Retrieval-Augmented Generation from local documents
