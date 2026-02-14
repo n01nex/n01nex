@@ -20,71 +20,12 @@ Based in Zurich, Switzerland 🇨🇭
 - **Digital Sovereignty**
 
 ---
+**In essence**: I bridge governance and technical reality — orchestrating risk, compliance, and cloud security by day, and tinkering with Kubernetes, Go, and local AI by night. 
+Homelab enthusiast with Proxmox, self-hosting advocate, AI Agentic optimizer.
 
-## ☁️ Cloud & Infrastructure
+**Stack**: Go, Python, K8s, AWS, PostgreSQL, Linux, Ollama
 
-### Kubernetes & Orchestration
-- **Kubernetes** (K8s) - Production experience
-- **Docker & LXC** containers
-- **Portainer** for container management
-
-### Cloud and Delivery
-- **AWS** (S3, CloudFront, EC2, Lambda)
-- **Azure** - Core services knowledge
-- **File Servers** (SMB, NFS)
-- **AWS S3** - Object storage
-- **CloudFront** - CDN distribution
-- **RabbitMQ** - Pub/Sub Architecture
-
-### Virtualization
-- **Proxmox VE** - Homelab & production
-- **VMware & VirtualBox**
-
----
-
-## 🐧 Linux Systems
-
-- **Daily Driver & Server:** Ubuntu/Debian, Arch Linux, Fedora
-- **User & Permissions Management**
-- **Network Shares & Services** 
-- **Logging & Auditing**
-- **SELinux & System Hardening**
-
----
-
-## 💻 Development
-
-- **Go** - Web services, APIs, CLI/TUI, Fyne
-- **Python** - Automation, scripting, Data Analytics, TensorFlow
-- **Bash** - Shell scripting
-- **PostgreSQL** & **SQL**
-- **Git** - Version control
-- **HTML/CSS/JavaScript**
-- **Simple React** applications
-
----
-
-## 🤖 AI & Machine Learning
-
-- **Ollama** - Local LLM deployment
-- **OpenWebUI** - Web interface for LLMs
-- **Agents** - OpenClaw and Custom agents orchestration
-- **TensorFlow** - ML framework
-- **Hugging Face** - Model hub & transformers
-- **RAG** - Retrieval-Augmented Generation from local documents
-
----
-
-## 🔍 Security 
-
----
-
-## 📊 Tools & Productivity
-
-- **Elasticsearch & Kibana Dashboards**
-- **SharePoint Administration**
-- **Advanced Excel & MS Office 365**
-- **Adobe Photoshop** - Design & visual work
+**Focus**: Digital sovereignty, local-first tooling, security
 
 ---
 
